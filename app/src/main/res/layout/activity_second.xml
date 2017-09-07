@@ -39,7 +39,7 @@
         android:text="Students under the BS Computer Science program are highly trained for software and system development. The program’s main focus is to expose the students to different approaches and styles in developing programs whether they are procedural or the object oriented type of system approach."
         android:textColor="@android:color/black"
         android:textSize="18sp"
-        android:textStyle="italic"
+
         android:layout_below="@+id/textView2"
         android:layout_alignLeft="@+id/textView2"
         android:layout_alignStart="@+id/textView2"

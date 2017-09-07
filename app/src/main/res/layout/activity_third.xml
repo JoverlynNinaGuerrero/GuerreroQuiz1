@@ -39,7 +39,7 @@
         android:text="Under this program, the students are trained to be well versed in the practical and technical know-how of installing/setting-up of computers and computer networks. Special skills taught include troubleshooting and repairing of hardware components."
         android:textColor="@android:color/black"
         android:textSize="18sp"
-        android:textStyle="italic"
+
         android:layout_below="@+id/textView2"
         android:layout_alignLeft="@+id/textView2"
         android:layout_alignStart="@+id/textView2"
